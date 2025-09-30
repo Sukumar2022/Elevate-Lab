@@ -13,3 +13,12 @@ Task 3
 1.Develop a mini system to manage books and users.
 2.Create classes: Book, User, Library.
 3.Implement book issue and return features
+
+
+Task 4: Create a text-based notes manager with file read/write.
+1.Use FileWriter to write notes to a file.
+2.Use FileReader or BufferedReader to read.
+
+Task 5: Bank Account Simulation
+1.Implement Account class with deposit, withdraw methods.
+2.Maintain account balance and transaction history.
