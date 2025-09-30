@@ -22,3 +22,7 @@ Task 4: Create a text-based notes manager with file read/write.
 Task 5: Bank Account Simulation
 1.Implement Account class with deposit, withdraw methods.
 2.Maintain account balance and transaction history.
+
+Task 6: Build a To-Do list using Java Swing.
+1.Use JFrame, JButton, JTextField.
+2.Add/Delete tasks using buttons.
