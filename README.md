@@ -26,3 +26,8 @@ Task 5: Bank Account Simulation
 Task 6: Build a To-Do list using Java Swing.
 1.Use JFrame, JButton, JTextField.
 2.Add/Delete tasks using buttons.
+
+Task 7: Java JDBC – Employee Database App
+1.Set up DB and table.
+2.Use Connection, PreparedStatement, ResultSet.
+3.Implement Add, View, Update, Delete.
