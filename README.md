@@ -31,3 +31,7 @@ Task 7: Java JDBC – Employee Database App
 1.Set up DB and table.
 2.Use Connection, PreparedStatement, ResultSet.
 3.Implement Add, View, Update, Delete.
+
+Task 8: Create a console-based quiz application.
+1.Use a List of questions with options.
+2.Accept answers and score user.
